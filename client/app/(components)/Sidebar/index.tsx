@@ -82,10 +82,10 @@ const Sidebar = () => {
         }`}
       >
         <Image
-          src="https://s3-inventorymanagement.s3.us-east-2.amazonaws.com/logo.png"
+          src="https://s3-inventorymanagement-1.s3.us-east-2.amazonaws.com/edstock-logo.png"
           alt="edstock-logo"
-          width={27}
           height={27}
+          width={27}
           className="rounded w-8"
         />
         <h1
